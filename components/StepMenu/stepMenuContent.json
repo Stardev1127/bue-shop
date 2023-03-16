@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Shopping Cart",
+    "icon": "fa-shopping-cart"
+  },
+  {
+    "title": "Shipping Informations",
+    "icon": "fa-truck"
+  },
+  {
+    "title": "Payment",
+    "icon": "fa-dollar-sign"
+  },
+  {
+    "title": "Confirmation",
+    "icon": "fa-flag"
+  }
+]

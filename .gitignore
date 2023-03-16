@@ -1,0 +1,29 @@
+# dependencies
+node_modules
+
+# logs
+*.log
+
+# Nuxt build
+.nuxt
+sw.*
+
+# Nuxt generate
+dist
+
+# Intellij idea
+.idea
+*iml
+
+# VSCode
+.vscode
+.history
+
+# Generated files
+static/manifest*.json
+static/sw.js
+static/workbox-sw*.js
+
+coverage
+.env
+.vercel
